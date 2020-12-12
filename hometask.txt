@@ -1,1 +1,25 @@
 Ветки master и demo отличаются файлом README (в конце в master добавлено продолжение)
+
+Ветка boots_buttons:
+7 коммитов
+1) init
+2) boots
+3) README added
+4) dots
+5) fix readme
+6) Merge branch 'boots' into boots_buttons
+7) Merge branch 'buttons' into boots_buttons
+
+Ветка master:
+11 коммитов
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge branch 'boots' into boots_buttons
+8) Merge branch 'buttons' into boots_buttons
+9) Merge branch 'hat'
+10) Merge branch 'boots_buttons'
+11) Add file 'hometask.txt'
